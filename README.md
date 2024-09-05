@@ -81,17 +81,9 @@ This analysis examines how the frequency of specific numbers or combinations cha
 
 ### Print the Five Most and Least Probable Numbers
 
-```markdown
-## Print the five more and less probable numbers
-```
-
 This section of the notebook identifies and prints the five most frequently drawn numbers as well as the five least frequently drawn numbers. This information helps users understand which numbers are trending and which are less likely to be drawn.
 
 ### Verifying if the Most or Least Probable Sets of Five Numbers Have Been Previously Drawn
-
-```markdown
-## Verifying if the Most or Least Probable Sets of Five Numbers Have Been Previously Drawn
-```
 
 This analysis checks whether the most probable or least probable sets of five numbers have ever been drawn together in previous Lotto results. This can offer insights into the patterns of drawn numbers.
 
